@@ -1,0 +1,28 @@
+{
+    "name": "five second games",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "pxt-gamejam-timer": "github:shakao/pxt-gamejam-timer#v0.0.22",
+        "color-coded-tilemap": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.36",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "no-blocks"
+}
